@@ -1,4 +1,4 @@
-# Curso de modelado de nichos ecológicos y distribuciones de especies
+# Curso Modelado de nichos ecológicos y distribuciones de especies
 
 ## Manejo del contenedor Docker
 
