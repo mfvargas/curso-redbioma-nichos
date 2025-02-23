@@ -1,6 +1,6 @@
 # Curso Modelado de nichos ecológicos y distribuciones de especies
 
-Este curso es impartido por Enrique Martínez Meyer y Luis A. Osorio Olvera, de la UNAM, en el contexto de la [redbioma](https://redbioma.github.io/).
+Este curso es impartido por Enrique Martínez Meyer y Luis A. Osorio Olvera, de la UNAM, como parte de las actividades de la [redbioma](https://redbioma.github.io/).
 
 ## Instalación de software
 
