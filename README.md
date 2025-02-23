@@ -2,6 +2,14 @@
 
 Este curso es impartido por Enrique Martínez Meyer y Luis A. Osorio Olvera, de la UNAM, en el contexto de la [redbioma](https://redbioma.github.io/).
 
+## Instalación de software
+
+Para instalar el software que se utiliza en el curso:
+
+1. Generar la imagen Docker especificada en `Dockerfile`.
+2. Ejecutar el contenedor Docker.
+3. Ejecutar el script `instalar_paquetes_RedBioma.R`.
+
 ## Manejo del contenedor Docker
 
 ### Generación de la imagen a partir del archivo Dockerfile
@@ -40,7 +48,7 @@ docker start curso-redbioma-nichos-r-442
 docker rm curso-redbioma-nichos-r-442
 ```
 
-### Ejemplo de contenido del archivo `mapa-agropecuario-forestal-r-442.env`
+### Ejemplo de contenido del archivo `curso-redbioma-nichos-r-442.env`
 
 (Deben asignarse valores adecuados a las variables)
 
