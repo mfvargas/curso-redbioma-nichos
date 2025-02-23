@@ -1,5 +1,7 @@
 # Curso Modelado de nichos ecológicos y distribuciones de especies
 
+Este curso es impartido por Enrique Martínez Meyer y Luis A. Osorio Olvera, de la UNAM, en el contexto de la [redbioma](https://redbioma.github.io/).
+
 ## Manejo del contenedor Docker
 
 ### Generación de la imagen a partir del archivo Dockerfile
