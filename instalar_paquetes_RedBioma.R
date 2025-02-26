@@ -39,6 +39,7 @@ pkgs_curso <- c("devtools", # herramientas para desarrolladores
                 "maptools","sp","sf","elevatr", # Analisis espacial
                 "GISTools","tmap", "spatstat","spdep", # Analisis espacial
                 "tmaptools","gstat", # Analisis espacial
+                "geodata", # Datos geoespaciales
                 "spocc","dismo", # Distribucion de especies
                 "ggplot2","rgl","car","plotly", # Graficacion
                 "dplyr","stringr","zoo", # manejo de datos
